@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/salust/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b9c2fc08c3b5b4fde2ca3bf8845f542c6ff78f0b.jar" />
+    </item>
+    <item
+        jar="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cecc196d48226798621b245331478a8902312118.jar" />
+    </item>
+    <item
+        jar="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/classes-16a08e63aef4599f2d8c43f7ccecb673470fecaa.jar" />
+    </item>
+    <item
+        jar="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/classes-2365020976a30974d289e4b16171c617831e8043.jar" />
+    </item>
+
+</items>

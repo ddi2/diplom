@@ -1,0 +1,5 @@
+/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/classes/debug
+/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b9c2fc08c3b5b4fde2ca3bf8845f542c6ff78f0b.jar
+/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cecc196d48226798621b245331478a8902312118.jar
+/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/classes-16a08e63aef4599f2d8c43f7ccecb673470fecaa.jar
+/home/salust/AndroidStudioProjects/new_Diplom/app/build/intermediates/pre-dexed/debug/classes-2365020976a30974d289e4b16171c617831e8043.jar
